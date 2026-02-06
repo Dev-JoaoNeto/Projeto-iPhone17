@@ -1,16 +1,31 @@
-# React + Vite
+# 📱 Projeto iPhone 17
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page inspirada no site da Apple, desenvolvida para apresentar o **iPhone 17** com foco em design moderno, responsividade e animações suaves.
 
-Currently, two official plugins are available:
+🔗 **Acesse o site:**  
+https://dev-joaoneto.github.io/projeto-iphone17/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Navbar fixa e responsiva (desktop e mobile)
+- Menu mobile com botão hamburguer
+- Seção Hero com destaque do produto
+- Seleção de cores do iPhone
+- Layout inspirado no padrão Apple
+- Design 100% responsivo
+- Performance otimizada com Vite
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tecnologias Utilizadas
+
+- **React** – Biblioteca para construção da interface
+- **Vite** – Build tool rápida e moderna
+- **Tailwind CSS** – Estilização utilitária e responsiva
+- **GitHub Pages** – Deploy do projeto
+
+---
+
+
